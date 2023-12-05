@@ -22,6 +22,15 @@ The annotations follow the numeric conventions of the HELP protocol, which class
 | Engagement    | `0`   | Not Engaged |
 |               | `1`   | Engaged     |
 
+
+## Files in this Repository
+
+### `train_labels_daisee.csv`
+Contains the re-annotated training data from the DAiSEE dataset.
+
+### `test_labels_daisee.csv`
+Contains the re-annotated testing data from the DAiSEE dataset.
+
 ## References
 
 For detailed information on the original DAiSEE dataset and the HELP protocol, please refer to the following sources:
