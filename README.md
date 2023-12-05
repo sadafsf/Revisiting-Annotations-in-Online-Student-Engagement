@@ -16,9 +16,9 @@ The annotations follow the numeric conventions of the HELP protocol, which class
 | Behavioral    | `0`   | Off-Task    |
 |               | `1`   | On-Task     |
 | Emotional     | `0`   | Bored       |
-|               | `1`   | Calm        |
-|               | `2`   | Confused    |
-|               | `3`   | Excited     |
+|               | `1`   | Calm/Satisfied       |
+|               | `2`   | Confused/Frustrated    |
+|               | `3`   | Excited/Highly Motivated     |
 | Engagement    | `0`   | Not Engaged |
 |               | `1`   | Engaged     |
 
