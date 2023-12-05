@@ -1,4 +1,3 @@
-#Re-Annotation of DAiSEE Dataset Using HELP Protocol
 
 ## Article Name
 *Re-Annotation of DAiSEE Dataset Using HELP Protocol*
