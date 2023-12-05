@@ -1,4 +1,4 @@
-# Re-Annotation of DAiSEE Dataset Using HELP Protocol
+# daisee-new-annotations
 
 ## Article Name
 *Re-Annotation of DAiSEE Dataset Using HELP Protocol*
@@ -28,17 +28,9 @@ The annotations follow the numeric conventions of the HELP protocol, which class
 For detailed information on the original DAiSEE dataset and the HELP protocol, please refer to the following sources:
 
 - DAiSEE dataset: Gupta, A., D'Cunha, A., Awasthi, K., & Balasubramanian, V. (2016). [DAiSEE: Towards User Engagement Recognition in the Wild](https://arxiv.org/pdf/1609.01885v7.pdf). arXiv preprint arXiv:1609.01885.
-- HELP Protocol: Authors. (Year). [Title of the HELP Protocol Paper](https://www.jstor.org/stable/44430540). Journal Name, Volume(Issue), pages.
+- - HELP Protocol: Aslan, S., Mete, S. E., Okur, E., Oktay, E., Alyuz, N., Genc, U. E., Stanhill, D., & Esme, A. A. (2017). Human Expert Labeling Process (HELP): Towards a Reliable Higher-Order User State Labeling Process and Tool to Assess Student Engagement. Educational Technology, 57(1), 53-59. [https://www.jstor.org/stable/44430540](https://www.jstor.org/stable/44430540).
 
 ## Citation
 
-If you find these annotations useful for your research, please consider citing the original DAiSEE dataset and the HELP protocol accordingly.
-
-```bibtex
-@inproceedings{daisee2016,
-  title={DAiSEE: Towards User Engagement Recognition in the Wild},
-  author={Gupta, Abhay and D'Cunha, Alisha and Awasthi, Kamal and Balasubramanian, Vineeth},
-  booktitle={arXiv preprint arXiv:1609.01885},
-  year={2016}
-}
+If you find these annotations useful for your research, please consider citing our paper.
 
