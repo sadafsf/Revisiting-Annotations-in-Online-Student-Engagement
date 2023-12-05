@@ -8,7 +8,7 @@
 ## Description of Annotations
 This repository contains two CSV files with the re-annotations of the DAiSEE dataset, employing the Human Expert Labeling Protocol (HELP). These annotations provide a more nuanced understanding of learner engagement, incorporating emotional, behavioral, and engagement scales.
 
-The annotations follow the numeric conventions of the HELP protocol, which classifies behavioral and emotional states, as well as engagement levels, using the following scheme:
+The annotations adhere to a numeric scheme designed for training purposes. They categorize behavioral and emotional states, along with engagement levels, according to the HELP protocol. The classification follows this scheme:
 ## Annotation Categories
 
 | Category      | Value | State       |
@@ -26,10 +26,10 @@ The annotations follow the numeric conventions of the HELP protocol, which class
 ## Files in this Repository
 
 ### `train_labels_daisee.csv`
-Contains the re-annotated training data from the DAiSEE dataset.
+Contains the re-annotated and original training data labels from the DAiSEE dataset.
 
 ### `test_labels_daisee.csv`
-Contains the re-annotated testing data from the DAiSEE dataset.
+Contains the re-annotated and original testing data labels from the DAiSEE dataset.
 
 ## References
 
