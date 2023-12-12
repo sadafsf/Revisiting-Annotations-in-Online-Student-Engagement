@@ -40,5 +40,7 @@ For detailed information on the original DAiSEE dataset and the HELP protocol, p
 
 ## Citation
 
-If you find these annotations useful for your research, please consider citing our paper.
+If you use these annotations in your research, please cite the following paper:
+
+Khan, S., & Safa, S. (2023). Revisiting Annotations in Online Student Engagement. Retrieved from [ResearchGate](https://www.researchgate.net/publication/376451121_Revisiting_Annotations_in_Online_Student_Engagement).
 
