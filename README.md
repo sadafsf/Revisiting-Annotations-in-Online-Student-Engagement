@@ -42,6 +42,6 @@ For detailed information on the original DAiSEE dataset and the HELP protocol, p
 
 If you use these annotations in your research, please cite the following paper:
 
-Khan, S., & Safa, S. (2023). Revisiting Annotations in Online Student Engagement. Retrieved from [ACM](https://dl.acm.org/doi/10.1145/3641181.3641186).
+Khan, S., & Safa, S. (2024). Revisiting Annotations in Online Student Engagement. Retrieved from [ACM](https://dl.acm.org/doi/10.1145/3641181.3641186).
 
 
